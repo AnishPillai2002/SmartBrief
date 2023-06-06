@@ -4,7 +4,7 @@ import React from 'react'
 
 import Hero from './components/Hero';
 import Demo from './components/Demo';
-
+import Footer from './components/Footer';
 //style
 import './App.css';
 
@@ -21,6 +21,7 @@ const App = () => {
         <div className='app'>
             <Hero/>
             <Demo/>
+            <Footer/>
 
         </div>
     </main>
