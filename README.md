@@ -2,6 +2,7 @@
 
 SmartBrief is an open-source article summarizer web app powered by OpenAI. It utilizes advanced natural language processing capabilities to provide users with concise and accurate summaries of articles from various sources. This project is built using Vite, React, Redux Toolkit, and Tailwind CSS.
 
+link: (https://smartbriefai.netlify.app/)
 ## Installation
 
 1. Clone the repository:
