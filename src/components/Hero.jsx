@@ -12,7 +12,7 @@ const Hero = () => {
         <img src={sbLogo} alt="sumz_logo" className='w-34 h-24 object-contain'/>
 
         <button 
-        onClick={()=>window.open("https://github.com/AnishPillai2002")}
+        onClick={()=>window.open("https://github.com/AnishPillai2002/SmartBrief")}
         className='black_btn'
         >
           Github
